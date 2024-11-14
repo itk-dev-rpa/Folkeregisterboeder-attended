@@ -19,6 +19,7 @@ dependencies = [
     "itk-dev-shared-components == 2.*",
     "uiautomation == 2.*",
     "selenium == 4.*",
+    "python-dotenv == 1.0.1"
 ]
 
 [project.optional-dependencies]
